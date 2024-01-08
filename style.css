@@ -1,0 +1,74 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main{
+    width: 1200px;
+}
+
+header{
+    width: 100%;
+    height: 100px;
+    display: flex;
+}
+
+.logo{
+    width: 200px;
+    height: 100%;
+    background-color: aqua;
+}
+
+.Menu{
+    width: 1000px;
+    height: 100%;
+    background-color: aquamarine;
+}
+
+.imgSlide{
+    width: 100%;
+    height: 300px;
+    background-color: antiquewhite;
+}
+
+.content{
+    width: 100%;
+    height: 200px;
+    display: flex;
+}
+
+.con1{
+    width: 400px;
+    height: 100%;
+    background-color: blue;
+}
+
+.con2{
+    width: 400px;
+    height: 100%;
+    background-color: blueviolet;
+}
+
+.con3{
+    width: 400px;
+    height: 100%;
+    background-color: brown;
+}
+
+footer{
+    width: 100%;
+    height: 100px;
+    display: flex;
+}
+
+.fMenu{
+    width: 1000px;
+    height: 50px;
+}
+
+.copy{
+    width: 1000px;
+    height: 50px;
+    background-color: black;
+}
